@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timtamsareyummy
-- 👀 I’m interested in ... C# + Unity, Java, Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Unity
+- 👀 I’m interested in ... web development
+- 🌱 I’m currently learning ... web development
+- 💞️ I’m looking to collaborate on ... anything?
 - 📫 How to reach me ... 
 
 <!---
